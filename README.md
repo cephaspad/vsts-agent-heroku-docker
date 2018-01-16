@@ -1,5 +1,4 @@
-# vsts-agent-heroku-docker
-Visual Studio Team Services Build and Release Agent for Heroku with Docker
+# Visual Studio Team Services Build and Release Agent for Heroku with Docker
 
 ## Usage
 1. Create new heroku app
